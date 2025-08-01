@@ -1,6 +1,6 @@
 # MSFS - Where in the World is My Config??
 
-![Where in the World is My Config Logo](images/logo.png)
+<img src="images/logo.png" alt="Where in the World is My Config Logo" height="256">
 
 A Windows application that locates and displays configuration paths for Microsoft Flight Simulator (MSFS 2020 and MSFS 2024).
 
