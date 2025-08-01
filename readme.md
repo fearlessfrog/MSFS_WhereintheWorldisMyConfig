@@ -23,6 +23,9 @@ Download the latest release and run the executable. No installation required. Se
 3. Use Copy/Open buttons to interact with paths
 4. Click Refresh to re-scan configurations
 
+<img src="images/screen1.jpg" alt="Screenshot" height="600">
+
+
 ## 🔧 Configuration Detection
 
 Automatically detects MSFS installations from:
