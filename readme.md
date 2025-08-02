@@ -14,7 +14,7 @@ A Windows application that locates and displays configuration paths for Microsof
 
 ## 📦 Installation
 
-Download the latest release and run the executable. No installation required. See the 'Releases' section https://github.com/fearlessfrog/MSFS_WhereintheWorldisMyConfig/releases
+Download the latest release and run the executable. No installation required. See the 'Releases' section [HERE](https://github.com/fearlessfrog/MSFS_WhereintheWorldisMyConfig/releases).
 
 ## Usage
 
