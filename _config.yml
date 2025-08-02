@@ -3,6 +3,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/modernist@v0.2.0
 include:
   - readme.md
