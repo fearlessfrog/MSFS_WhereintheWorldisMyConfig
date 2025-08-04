@@ -8,7 +8,7 @@ A Windows application that locates and displays configuration paths for Microsof
 
 - **Configuration Detection**: Community folders, user options, rolling cache, base game installation, and starting programs
 - **MSFS Version Support**: Both MSFS 2020 and MSFS 2024 with automatic detection
-- **Storage Report:**: find out where your disk space has gone!
+- **Storage Report**: Find out where all your disk space has gone!
 - **Installation Types**: Microsoft Store/Xbox Game Pass and Steam installations, with versions and sizes
 - **User Interface**: Tabbed interface with copy/open buttons and DPI-aware scaling
 - **Smart Detection**: Handles UWP protected locations and junction/symbolic links
